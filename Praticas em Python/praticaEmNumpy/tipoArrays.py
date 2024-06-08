@@ -1,4 +1,4 @@
-# Arrays vazios tipificados
+# arrays vazios tipificados
 # empty significa que não são iniciados
 import numpy as np
 
